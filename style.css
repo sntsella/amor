@@ -1,0 +1,187 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, #DF4D31, #E76748, #EF8160, #F79B77, #FFB58E);
+    font-family: 'Times New Roman', Times, serif;
+    border: 0;       
+    margin: 5;
+    padding: 0;
+}
+
+nav{
+    text-align: center;
+    cursor: pointer;
+}
+
+img{
+    padding: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.card-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10vw;
+    padding-top: 400px;     
+    position: absolute;   
+    top: 21%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;  
+    text-align: center; 
+}
+
+.div-text{
+    background-color: white;
+    font-size: 18px;
+    margin-top: 300px;
+    width: 1300;
+    height: 100;
+    padding: 10%;
+    border-radius: 20px 20px 20px 20px;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}
+
+.text{
+    text-align: center;
+    font-style: italic;
+}
+
+.foto-circular-1{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    left: 145px;    
+    position: relative;
+    overflow: hidden;
+    background-image: url('img/1.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+.foto-circular-2{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    left: 145px;    
+    position: relative;
+    overflow: hidden;
+    background-image: url('img/2.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.foto-circular-3{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    left: 145px;    
+    position: relative;
+    overflow: hidden;
+    background-image: url('img/3.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.foto-circular-4{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    left: 145px;    
+    position: relative;
+    overflow: hidden;
+    background-image: url('img/4.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.foto-circular-5{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    left: 145px;    
+    position: relative;
+    overflow: hidden;
+    background-image: url('img/5.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.card-1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px 20px;  
+    
+}
+.card-text-1{    
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10%;
+    margin-top: 20px;
+    text-align: center;     
+}
+
+.text-1{
+    margin-top: 5px;
+}
+
+.sub{
+    margin: 30px;
+    text-align: right;
+    font-style: italic;
+}
+
+.card-2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px 20px;  
+}
+
+.card-text-2{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10%;
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.card-3{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px 20px;  
+}
+
+.card-text-3{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10%;
+    margin-top: 20px;
+    text-align: center; 
+}
+
+.card-4{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px 20px;  
+}
+
+.card-text-4{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10%;
+    margin-top: 20px;
+    text-align: center; 
+}
+
+audio {
+    width: 300px;
+    height: 50px;
+    background-color: #f2f2f200;
+    border: 1px solid #cccccc00;
+    border-radius: 5px;
+    padding: 10px;
+    
+  }
+  
